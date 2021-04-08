@@ -1,0 +1,17 @@
+* {
+    font-family: sans-serif;
+}
+
+html {
+    font-size: 66.5%;
+}
+
+#midbanner {
+    margin: 0%, 20%;
+    padding: 1rem;
+    background: #DCB9A3;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    letter-spacing: 0.4rem;
+}
